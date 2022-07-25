@@ -1,7 +1,7 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 // created character variables
-var specialChar = "~!@#$%^&*()";
+var specialChar = "~!@#$%^&*()_+";
 var numericChar = "0123456789";
 var lowercaseChar = "abcdefghijklmnopqrstuvwxyz";
 var uppercaseChar = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
