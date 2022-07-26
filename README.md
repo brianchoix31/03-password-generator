@@ -13,7 +13,7 @@ With the given source code, the third Challenge must meet the following criteria
 </ul>
 
 ## Visual
-<img src="![visual](https://user-images.githubusercontent.com/108188990/180916200-b4bb58e7-05ed-4a9a-a40a-e3b86cef62ab.png)">
+<img src="https://user-images.githubusercontent.com/108188990/180916200-b4bb58e7-05ed-4a9a-a40a-e3b86cef62ab.png">
 
 ## Link to Deployed GitHub Page
 <a href="https://brianchoix31.github.io/03-password-generator/">Deployed GitHub Page</a>
